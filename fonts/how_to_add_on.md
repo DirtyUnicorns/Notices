@@ -23,8 +23,11 @@ commit, push to gerrit for review
 cd SOURCE/vendor/du
 git add .
 git commit -a
-git push ssh://USERNAME@gerrit.dirtyunicorns.com:29418/PROJECT HEAD:refs/for/BRANCH
+git push ssh://USERNAME@gerrit.dirtyunicorns.com:29418/android_vendor_du HEAD:refs/for/BRANCH
 ```
+
+* `USERNAME` - Your Gerrit username (which can be found [here](https://gerrit.dirtyunicorns.com/#/settings/))
+* `BRANCH` - The branch you want to push to. Currently, this is `o8x`.
 
 If you're wanting to use it for personal use, you'll have to place it in the same location as above, compile it and then 
 push the apk to ```system/app/DU-Fonts/```
