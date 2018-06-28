@@ -24,9 +24,9 @@
 
 - The device must have working audio. This includes but is not limited to in-call audio, speaker phone, headphone jack and bluetooth audio.
 
-- The device must have working phone calls and data. This includes but not limited to being able to receive and make phone calls, download files from the internet, stream video calls and use different sim slots if applicable.
+- The device must have working phone calls and data. This includes, but is not limited to, to being able to receive and make phone calls, download files from the internet, stream video calls and use different sim slots if applicable.
 
-- The device must have a working hotspot if applicable. This includes but not limited to WiFi and USB tethering.
+- The device must have a working hotspot if applicable. This includes, but is not limited to, WiFi and USB tethering.
 
 - The device must have a working camera. Not only do we require the the camera to work but the AOSP camera needs to be fully functional because that's what we ship. We do not ship with any other camera, snapdragon or OEM. This includes but is not limited to having the camera take pictures with both the back camera and front facing camera if applicable and video recording in all definitions.
 
