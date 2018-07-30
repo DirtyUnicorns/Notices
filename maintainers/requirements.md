@@ -1,5 +1,7 @@
 ## Required skills ##
 
+- The maintainer must own the device and do all their own testing. Blind building is not acceptable.
+
 - The maintainer must have an account on Github, Gerrit and JIRA.
 
 - The maintainer must know how to use Gerrit correctly. This includes but is not limited to pushing commits, rebasing commits, reviewing commits, pushing commits in draft, assigning proper groups for further testing and organizing large number of commits in topics.
