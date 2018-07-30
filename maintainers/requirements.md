@@ -22,7 +22,7 @@
 
 - The device must enforce SELinux.
 
-- The device's kernel must be upstreamed with the latest patches from kernel.org.
+- The device's kernel must be up to date with the latest patches from [kernel.org](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/). If you are unsure of how to do this, check out [android-linux-stable](https://github.com/android-linux-stable) or contact [Nathan Chancellor](https://nathanchance.me).
 
 - The device must have working audio. This includes but is not limited to in-call audio, speaker phone, headphone jack and bluetooth audio.
 
