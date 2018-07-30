@@ -1,24 +1,17 @@
 ---
-__Once all requirements are met, contact someone from the recruiting committee below.__
+__How to apply for maintainership__
 ---
 
-You can contact the members of the committee one of two ways. You can reach out to them via Google+ and they will make arrangements to
-talk further in private with you or you can contact them on telegram. Please __DO NOT SPAM__ them. They will get to you when they have time.
+1. Before contacting anyone on the committee, ALL of [the requirements](requirements.md) must be met. If there are any questions regarding them, you can reach out but maintainership will not be considered without meeting the requirements.
+
+2. Contact one of the committee members using either Google+ or Telegram. When contacting the committee, you should link your device specific repos and explain why you think you should be a maintainer. This is like a job application, the information should be provided before coming in for an interview.
+
+3. __DO NOT SPAM__ the committee members. They all have real lives and can get busy.
 
 ## Recruiting committee ##
 
-Head of the committee:
-[Josh Chasky](https://plus.google.com/u/0/+JoshChasky)
+- Edwin Rivera ([Google+](https://plus.google.com/u/0/+EdwinSPACEMANRivera) | [Telegram](https://t.me/spaceman860))
 
-Members of the commiteee:
+- Mark Rhodes ([Google+](https://plus.google.com/u/0/104191856656335658539) | [Telegram](https://t.me/Moepda))
 
-- [Edwin Rivera](https://plus.google.com/u/0/+EdwinSPACEMANRivera)
-
-- [Mark Rhodes](https://plus.google.com/u/0/104191856656335658539)
-
-- [Nathan Chancellor](https://plus.google.com/u/0/+NathanChancellor)
-
-Guy that hangs around the committee for some reason:
-
-- [Alex Cruz](https://plus.google.com/u/0/+AlexCruz)
-
+- Nathan Chancellor ([Google+](https://plus.google.com/u/0/+NathanChancellor) | [Telegram](https://t.me/nathanchance))
