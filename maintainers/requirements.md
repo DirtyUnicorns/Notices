@@ -47,3 +47,13 @@
 - The device must include all device specific and DU overlays. This includes but is not limited to ambient display, LED and hardware keys if applicable.
 
 - The device must not include any unused overlays. This includes but is not limited to packages not being built, obsolete packages or placebo build.prop 'tweaks'.
+
+- If commits are needed in repos other than the device specific ones, they must:
+
+  - Be necessary for the device to build, boot, or otherwise function.
+
+  - Have proper authorship.
+
+  - Be pushed to Gerrit under one topic for easy review.
+
+  - Be as minimal as possible. Do NOT merge other ROMs' repos into DU ones.
