@@ -12,6 +12,8 @@
 
 - The maintainer must display proper authorship and commit history in all non-original commits that are pulled from other sources. This is not limited to just past commits but future commits as well that are pushed to both github and gerrit. Authorship is important.
 
+- The maintainer must do unofficial builds on [Google+](https://plus.google.com/communities/109738128866939227235) and/or [the forums](https://dirtyunicorns.com/forum/unofficial-builds/) for at least a month to show off how they handle users and issues.
+
 
 
 ## Device requirements ##
