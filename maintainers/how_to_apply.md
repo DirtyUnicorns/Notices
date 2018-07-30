@@ -2,6 +2,8 @@
 __How to apply for maintainership__
 ---
 
+As of July 30th, 2018, we are not accepting new maintainers, due to the end of the Android Oreo cycle. An announcement will be made when we are accepting new applications for Android P and the below process will still be valid when that happens.
+
 1. Before contacting anyone on the committee, ALL of [the requirements](requirements.md) must be met. If there are any questions regarding them, you can reach out but maintainership will not be considered without meeting the requirements.
 
 2. Contact one of the committee members using either Google+ or Telegram. When contacting the committee, you should link your device specific repos and explain why you think you should be a maintainer. This is like a job application, the information should be provided before coming in for an interview.
