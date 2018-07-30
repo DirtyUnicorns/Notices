@@ -6,11 +6,13 @@
 
 - The maintainer must know how to use Gerrit correctly. This includes but is not limited to pushing commits, rebasing commits, reviewing commits, pushing commits in draft, assigning proper groups for further testing and organizing large number of commits in topics.
 
-- The maintainer must know how to use Git correctly. This includes but is not limited to amending commits, rebasing commits, cloning repos, pushing commits/repos, merging and pulling commits accordingly. 
+- The maintainer must know how to use Git correctly. This includes but is not limited to amending commits, rebasing commits, cloning repos, pushing commits/repos, merging and pulling commits accordingly.
 
 - The maintainer must know how to use JIRA correctly. This includes but is not limited to reviewing reports and replying accordingly to users. The maintainer will also be required to handle any device specific issues on their own. If the maintainer needs assistance then assistance will be provided.
 
 - The maintainer must display proper authorship and commit history in all non-original commits that are pulled from other sources. This is not limited to just past commits but future commits as well that are pushed to both github and gerrit. Authorship is important.
+
+- The maintainer must write clear and descriptive commit messages with both normal commits and reverts, documenting exactly what they are changing and why.
 
 - The maintainer must do unofficial builds on [Google+](https://plus.google.com/communities/109738128866939227235) and/or [the forums](https://dirtyunicorns.com/forum/unofficial-builds/) for at least a month to show off how they handle users and issues.
 
