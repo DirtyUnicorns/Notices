@@ -14,7 +14,7 @@
 
 - The maintainer must write clear and descriptive commit messages with both normal commits and reverts, documenting exactly what they are changing and why.
 
-- The maintainer must do unofficial builds on [Google+](https://plus.google.com/communities/109738128866939227235) and/or [the forums](https://dirtyunicorns.com/forum/unofficial-builds/) for at least a month to show off how they handle users and issues.
+- The maintainer must do unofficial builds on [Discord server](https://discord.gg/XYuNuxY) for at least a month to show off how they handle users and issues.
 
 
 
