@@ -11,7 +11,7 @@ __How to apply__
 
 ## Recruiting committee ##
 
-([Telegram support chat](https://t.me/DirtyUnicornsSupport))
+([Telegram unofficial support chat](https://t.me/UnofficialDirtyUnicornsSupport))
 
 - Edwin Rivera ([Telegram](https://t.me/spaceman860))
 

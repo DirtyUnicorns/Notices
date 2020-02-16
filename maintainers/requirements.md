@@ -14,7 +14,7 @@
 
 - The maintainer must write clear and descriptive commit messages with both normal commits and reverts, documenting exactly what they are changing and why.
 
-- The maintainer must do unofficial builds on [Telegram](https://t.me/DirtyUnicornsSupport) for at least a month to show off how they handle users and issues.
+- The maintainer must do unofficial builds on [Telegram](https://t.me/UnofficialDirtyUnicornsSupport) for at least a month to show off how they handle users and issues.
 
 
 
