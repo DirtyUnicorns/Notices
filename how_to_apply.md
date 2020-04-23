@@ -13,8 +13,8 @@ __How to apply__
 
 ([Telegram unofficial support chat](https://t.me/UnofficialDirtyUnicornsSupport))
 
-- Edwin Rivera ([Telegram](https://t.me/spaceman860))
+- Josh Correll ([Telegram](https://t.me/jbats00))
 
-- Mark Rhodes ([Telegram](https://t.me/Moepda))
+- William Bellavance ([Telegram](https://t.me/Flintman))
 
 - Nathan Chancellor ([Telegram](https://t.me/nathanchance))
